@@ -21,4 +21,9 @@ Learn more about me on femisotonwa.com, I write there also
 
 - 🔭 I work as a Mobile App Engineer (Flutter) at [Enyata](https://enyata.com)
 - 🌱 I’m currently learning Backend Development with [Go](https://go.dev)
-- 📫 How to reach me: [mail](mailto:sotonwaoluwafemi@gmail.com)
+- 📫 How to reach me: [Email](mailto:sotonwaoluwafemi@gmail.com), [LinkedIn](https://www.linkedin.com/in/femi-sotonwa/)
+- ♟️ I love playing chess [Lichess](https://lichess.org/@/youngtard)
+
+<!-- [![Linkedin Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngtard)] -->
+<!-- [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/femi-sotonwa/) -->
+
