@@ -19,8 +19,12 @@ Learn more about me on femisotonwa.com, I write there also
 - 🌱 I’m currently learning Backend development with [Go](https://go.dev) Journey with me [here](femisotonwa.com/go)
 -->
 
+<!--
 - 🔭 I work as a Mobile App Engineer (Flutter) at [Enyata](https://enyata.com)
 - 🌱 I’m currently learning Backend Development with [Go](https://go.dev)
+-->
+- 🔭 Software Developer
+- 🔭 Tech Stack - Flutter and Go
 - 📫 How to reach me: [Email](mailto:sotonwaoluwafemi@gmail.com), [LinkedIn](https://www.linkedin.com/in/femi-sotonwa/)
 - ♟️ I love playing chess [Lichess](https://lichess.org/@/youngtard)
 
